@@ -176,7 +176,6 @@ namespace Web.Controllers
                             LastName = (string)resultPatients[i]["LastName"],
                             FirstName = (string)resultPatients[i]["FirstName"],
                             MiddleName = (string)resultPatients[i]["MiddleName"],
-                            Sex = (int)resultPatients[i]["Sex"],
                             WorkPlace = (string)resultPatients[i]["WorkPlace"],
                             WorkPost = (string)resultPatients[i]["WorkPost"],
                             Proffesion = (string)resultPatients[i]["Proffesion"],
